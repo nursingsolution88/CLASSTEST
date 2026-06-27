@@ -1,0 +1,29 @@
+[
+{
+"id":1,
+"question":"Normal adult heart rate is?",
+"A":"40-60",
+"B":"60-100",
+"C":"100-140",
+"D":"140-160",
+"answer":"B"
+},
+{
+"id":2,
+"question":"Normal BP is?",
+"A":"120/80 mmHg",
+"B":"140/90 mmHg",
+"C":"100/60 mmHg",
+"D":"160/100 mmHg",
+"answer":"A"
+},
+{
+"id":3,
+"question":"Pulse site best for emergency?",
+"A":"Radial",
+"B":"Carotid",
+"C":"Femoral",
+"D":"Pedal",
+"answer":"B"
+}
+]
